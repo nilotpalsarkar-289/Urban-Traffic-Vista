@@ -1,6 +1,6 @@
-# 🚦 Urban Traffic Vista
+# 🚦 Urban Vista
 
-**Urban Traffic Vista** is a smart web application designed to enhance urban traffic management using advanced machine learning models. It offers real-time congestion prediction, shortest path recommendations, anomaly detection, and vehicle number plate recognition. 
+**Urban Vista** is a smart web application designed to enhance urban traffic management using advanced machine learning models. It offers real-time congestion prediction, shortest path recommendations, anomaly detection, and vehicle number plate recognition. 
 
 ---
 
